@@ -6,3 +6,7 @@ lib/
 *.csv
 *-checkpoint.ipynb
 *-checkpoint.ipynb
+
+venv
+
+.DS_Store

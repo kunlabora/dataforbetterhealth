@@ -1,0 +1,8 @@
+.idea/
+
+lib/
+
+*.txt
+*.csv
+*-checkpoint.ipynb
+*-checkpoint.ipynb

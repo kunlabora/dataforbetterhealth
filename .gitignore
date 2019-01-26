@@ -8,6 +8,7 @@ lib/
 *-checkpoint.ipynb
 *-checkpoint.ipynb
 *.png
+*.dump
 
 venv
 .venv

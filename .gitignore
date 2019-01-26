@@ -6,6 +6,7 @@ lib/
 *.csv
 *-checkpoint.ipynb
 *-checkpoint.ipynb
+*.png
 
 venv
 

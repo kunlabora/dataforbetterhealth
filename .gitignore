@@ -4,10 +4,13 @@ lib/
 
 *.txt
 *.csv
+*.xml
 *-checkpoint.ipynb
 *-checkpoint.ipynb
 *.png
+*.dump
 
 venv
+.venv
 
 .DS_Store
